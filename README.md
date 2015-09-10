@@ -1,3 +1,5 @@
+[![Stories in Ready](https://badge.waffle.io/kaustubhcs/8_digit_display.svg?label=ready&title=Ready)](http://waffle.io/kaustubhcs/8_digit_display)
+
 # 8_digit_display
 ~KTB
 
